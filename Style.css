@@ -1,0 +1,95 @@
+body
+{
+  margin:0;
+
+}
+.Wbtext
+{
+  position: absolute;
+  margin-left:1px;
+  left: 1px;
+}
+.MR
+{
+position:absolute;
+left:950px;
+Font-color: Black;
+}
+
+.CM
+{
+position:absolute;
+left:1070px;
+Font-color: Black;
+}
+
+.Blogie
+{
+  position:absolute;
+  left:1195px;
+  Font-color: Black;
+}
+.Data
+{
+    text-decoration: underline;
+}
+.intro
+{
+font-family: 'Merriweather', serif;
+font-size: 2rem;
+}
+.Tvs
+{
+text-align: center;
+padding-top: 30px;
+background-color: lightgreen;
+width: 100%;
+height: 780px;
+border: 20px;
+}
+.HR_R
+{
+  border-style: dotted;
+  border-color: Grey;
+  border-top: none;
+  border-radius: 15px 50px 30px 5px;
+  border-bottom-width: thick;
+  width: 25%;
+}
+.Avatar
+{
+  float: left;
+  height: 95px;
+  margin-left: 450px;
+}
+.Mvs
+{
+  margin: 0;
+  text-align: center;
+width: 100%;
+height: 950px;
+
+}
+.F_Lance
+{
+  text-align: left;
+  margin-left: 500px;
+  margin-top: 1px;
+  width: 30%;
+}
+
+.DE
+{
+  text-align: left;
+  margin-left: 500px;
+  margin-top: 1px;
+  width: 30%;
+}
+
+.Bvs
+{
+    text-align: center;
+background-color: lightgreen;
+width: 100%;
+height: 500px;
+}
